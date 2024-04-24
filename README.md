@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+PROJECT:- TRIPURAQUEST (TRAVEL WEBSITE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+DESCRIPTION: A fully responsive travel website built using `HTML`,`CSS` and `React JS` along with its various dependencies to showcase all the beautiful tourist attraction of the state.
 
-## Available Scripts
+
+
+
 
 In the project directory, you can run:
 
