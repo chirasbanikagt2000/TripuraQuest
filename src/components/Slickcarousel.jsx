@@ -46,7 +46,7 @@ function Slickcarousel() {
             image={Hotel1}
             heading="Geetanjali Guest House"
             buttonText="Explore Spot"
-            url="/"
+            url="https://maps.app.goo.gl/dQy1JHur7nizSqoG7"
             btnClass="show"
           />
         </div>
@@ -64,7 +64,7 @@ function Slickcarousel() {
             image={Hotel1}
             heading="Hotel Welcome Palace"
             buttonText="Explore Spot"
-            url="/"
+            url="https://maps.app.goo.gl/tpRUWd6hrR6moB3E7"
             btnClass="show"
           />
         </div>
@@ -73,7 +73,7 @@ function Slickcarousel() {
             image={Hotel1}
             heading="Hotel Rimi International"
             buttonText="Explore Spot"
-            url="/"
+            url="https://maps.app.goo.gl/8eMfL2xXv3DoEXhm9"
             btnClass="show"
           />
         </div>
@@ -82,7 +82,7 @@ function Slickcarousel() {
             image={Hotel1}
             heading="Ginger"
             buttonText="Explore Spot"
-            url="/"
+            url="https://maps.app.goo.gl/p5UHRbSVdnWCqBDAA"
             btnClass="show"
           />
         </div>
@@ -91,7 +91,7 @@ function Slickcarousel() {
             image={Hotel1}
             heading="Hotel Woodland Park"
             buttonText="Explore Spot"
-            url="/"
+            url="https://maps.app.goo.gl/NLn2pm4SmY6JCKAZ7"
             btnClass="show"
           />
         </div>
@@ -100,7 +100,7 @@ function Slickcarousel() {
             image={Hotel1}
             heading="Hotel Radha International"
             buttonText="Explore Spot"
-            url="/"
+            url="https://maps.app.goo.gl/1SN8iE1Mc58THr3d6"
             btnClass="show"
           />
         </div>
