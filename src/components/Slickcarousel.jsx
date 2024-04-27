@@ -55,7 +55,7 @@ function Slickcarousel() {
             image={Hotel1}
             heading="Hotel Airdrop"
             buttonText="Explore Spot"
-            url="/"
+            url="https://maps.app.goo.gl/a6D8y33Es38F1YyW9"
             btnClass="show"
           />
         </div>
