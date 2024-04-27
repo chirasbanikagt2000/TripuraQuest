@@ -17,9 +17,9 @@ function Slickcarouseldata(props) {
       <Link
         className={props.btnClass}
         to={props.url}
-        onClick={() => {
-          window.scroll(0, 0);
-        }}
+        target="_blank"
+        rel="noopener noreferrer"
+      
       >
         <FontAwesomeIcon icon={faLocationDot} />
         &nbsp;&nbsp;&nbsp;
